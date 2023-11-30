@@ -1,0 +1,72 @@
+.hh-header{
+    position:relative;
+    height: 170px;
+  }
+  .hh-logo{
+    position:absolute;
+    left: 70%;
+    top: 10%;
+  }
+  .hh-company{
+    font-family: Impact;
+    font-size:35px;
+    position:absolute;
+    top:45px;
+    padding-bottom:2px;
+    border-bottom: 1px dotted gray;
+  }
+  .hh-slogan{
+    top: 100px;
+    position:absolute;
+  }
+  .hh-sheet{
+    box-shadow:0 0 5px lightgray;
+    border-radius:10px;
+    padding: 5px;
+    position: relative;
+    top:-10px;
+    margin-top: 20px;
+  }
+  .hh-sheetright{
+    box-shadow:0 0 5px lightgray;
+    border-radius:10px;
+    padding: 5px;
+    position: relative;
+    top:-10px;
+    margin-top: 20px;
+    width:300px;
+    float:right;
+  }
+  .hh-sheetleft{
+    box-shadow:0 0 5px lightgray;
+    border-radius:10px;
+    padding: 5px;
+    position: relative;
+    top:-20px;
+    margin-top: 20px;
+    width:800px;
+  }
+  .col-md-5{
+    width:50px;
+    height:80px;
+  }
+  .hh-body{
+    padding:5px;
+  }
+  .hh-cart ul {
+    padding:0px;
+    margin:0px;
+    list-style: none;
+    font-size: smaller;
+  
+  }
+  .hh-cart{
+    margin:7px 0;
+  }
+  .hh-product{
+    text-align:center;
+    padding: 5px 2px;
+    display:inline-block;
+    width:200px;
+  }
+  
